@@ -18,6 +18,10 @@ Verified Unity game and Played it to see how Unity played a role in it - Game Na
 
 https://blog.unity.com/games/recipe-behind-smash-hit-cult-of-the-lamb 
 
+Questions: What are the limits to what I can create with Unity Personal (free version)
+
+The Plan: Our next plan is to begin working on a project as soon as we can confirm our license for Unity Hub
+
 
 
 

@@ -26,6 +26,6 @@ Ideas We Thought Of (Unity Tools)
 
 
 
-[Next](entry02.md)
+[Next (to move on to next blog)](entry02.md)
 
-[Home](../README.md)
+[Home (return to home page of blogs)](../README.md)

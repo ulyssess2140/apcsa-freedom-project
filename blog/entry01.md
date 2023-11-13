@@ -23,9 +23,9 @@ Ideas We Thought Of (Unity Tools)
 
 [Terrain](https://www.bing.com/videos/riverview/relatedvideo?&q=how+to+use+unity+3d&qpvt=how+to+use+unity+3d&mid=A7549B1EFBBBE130E734A7549B1EFBBBE130E734&&FORM=VRDGAR) 
 
+<br> </br>
 
 
+[Next](entry02.md)
 
-[Next (to move on to next blog)](entry02.md)
-
-[Home (return to home page of blogs)](../README.md)
+[Home](../README.md)

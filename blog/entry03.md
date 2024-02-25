@@ -1,7 +1,10 @@
 # Entry 3
-##### X/X/XX
+##### 2/17/24
 
-Text
+This blog entry undegoes my advancement in the map the character will be exploring
+
+
+![Alt text](image-1.png)
 
 [Previous](entry02.md) | [Next](entry04.md)
 

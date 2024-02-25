@@ -16,7 +16,15 @@ Besides the map which to me already looks amazing, I have also decided to give i
 ## Skybox 2
 ![Alt text](image-3.png)
 
+I can ultimately interchange between a cloudy setting or a vibrant sunny day. I can even add a nighttime whenever I add street lamps and illuminate the city to my will. But for now, I decided I shall make a bare minimum city with other props and buildings to fit into the MVP
 
+### Skills
+
+The skills I have gained from this experience is the skills to do proper research and figure out how to import assets as well as use them properly because I was having a very hard time figuring out how to add a street. Since it wasn't letting me drag a street asset into the project, I eventually figured out that I needed to add a sidewalk first and modify it by dragging the street asset onto the newly placed sidewalk asset.
+
+### EDP (Engineering Design Process)
+
+Currently, I am in the process of creating a prototype by making a prototype map for our character to eventually walk on
 
 [Previous](entry02.md) | [Next](entry04.md)
 

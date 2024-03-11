@@ -2,29 +2,18 @@
 
 Tool: **Unity**
 
-Project: **Immersive and Interactive Game (3D???)**
+Project: **Immersive/Free-To-Roam Game**
 
 ---
 
-10/28/23:
+3/8/24
 
-https://gamertweak.com/unity-game-engine-games-list/ // Games built with Unity
-
-https://unity.com/products/speedtree  // Library/Art tool that builds scapes like plants and visual 3D models
-
-Downloaded and began scrolling through the Unity Hub - Confirmation of learning license soon
-
-Verified Unity game and Played it to see how Unity played a role in it - Game Name: Cult of The Lamb 
-
-https://blog.unity.com/games/recipe-behind-smash-hit-cult-of-the-lamb 
-
-Questions: What are the limits to what I can create with Unity Personal (free version)
-
-The Plan: Our next plan is to begin working on a project as soon as we can confirm our license for Unity Hub
+Throughout this week, I have been planning and finding ways to help prepare myself with the creation of my project. While my partners Safe and Jaiden have been finding ways to help in their own ways, I have been trying to learn Blender in order to help myself make more realistic objects and animations if and where necessary. 
 
 
 
 
+![image](https://github.com/ulyssess2140/apcsa-freedom-project/assets/91745039/52b7ee71-b614-4e85-8ae2-1d124aeef744)
 
 X/X/X:
 * Text

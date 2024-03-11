@@ -8,7 +8,7 @@ Project: **Immersive/Free-To-Roam Game**
 
 3/8/24
 
-Throughout this week, I have been planning and finding ways to help prepare myself with the creation of my project. While my partners Safe and Jaiden have been finding ways to help in their own ways, I have been trying to learn Blender in order to help myself make more realistic objects and animations if and where necessary. Blender itself is an open source software that allows you to render and model basically anything your 3D mind desires. All those sick 3D animations are because of blender and continue to get better with more exposure to the software. I decided to give it a try and see how difficult or easy it would be to use this software. 
+Throughout this week, I have been planning and finding ways to help prepare myself with the creation of my project. While my partners Safe and Jaiden have been finding ways to help in their own ways, I have been trying to learn Blender in order to help myself make more realistic objects and animations if and where necessary. Blender itself is an open source software that allows you to render and model basically anything your 3D mind desires. All those sick 3D animations are because of blender and continue to get better with more exposure to the software. I decided to give it a try and see how difficult or easy it would be to use this software. Upon opening the software itself, I was given options to create new directories to build and create, where general takes you to it's default canvas, 2D animation for animating (in the 2D), Sculpting lets you make any 3D object with a circle (I tried this and didn't know any of the tools so I made a flat oval, it wasn't even flat it was rugged), and video editing to edit any videos you'd like. 
 
 ![image](https://github.com/ulyssess2140/apcsa-freedom-project/assets/91745039/61c9e84f-cbed-4884-8521-4d3d319efe04)
 
@@ -16,8 +16,15 @@ This is the animation page where although it doesn't seem like much, I made very
 
 ![image](https://github.com/ulyssess2140/apcsa-freedom-project/assets/91745039/52b7ee71-b614-4e85-8ae2-1d124aeef744)
 
-X/X/X:
-* Text
+
+As I continue working with Blender, I'd like to try to implement these skills with the Unity map I am also working on. My next plan moving forward is to discuss with my partners what and how to work on blender and merge idea's together. I should also get to finishing the bare minimum of the map and implement the finishing animation to our character because he can only really walk forward and flies when moving left, right, and backwards. Other than that, I believe it should be smooth sailing from here 
+
+
+
+
+
+
+
 
 
 <!-- 

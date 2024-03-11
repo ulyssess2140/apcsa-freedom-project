@@ -12,7 +12,7 @@ Throughout this week, I have been planning and finding ways to help prepare myse
 
 ![image](https://github.com/ulyssess2140/apcsa-freedom-project/assets/91745039/61c9e84f-cbed-4884-8521-4d3d319efe04)
 
-This is the animation page where although it doesn't seem like much, I made very simple smiling faces and tried my best with animation. There were so many things to press and change that I had no idea what I even needed to start with. Fortunately, I figured something out myself in which I can just pull the times these smiling faces appear and disappear. I am not so good if not good at all with animation so the fact that the 2nd smaller face appeared and disappeared was a win for me. And with that, I have some sort of knowledge that can serve useful later if necessary
+This is the animation page where although it doesn't seem like much, I made very simple smiling faces and tried my best with animation. There were so many things to press and change that I had no idea what I even needed to start with. Fortunately, I figured something out myself in which I can just pull the times these smiling faces appear and disappear. I am not so good if not good at all with animation so the fact that the 2nd smaller face appeared and disappeared was a win for me. And with that, I have some sort of knowledge that can serve useful later if necessary (You may not see it but on the bottom are 2 lines that run the animation. There are small little diamonds that represent when the animation (or the drawing) come into the canvas. I messed around with it and somehow got it to appear and disappear)
 
 ![image](https://github.com/ulyssess2140/apcsa-freedom-project/assets/91745039/52b7ee71-b614-4e85-8ae2-1d124aeef744)
 
